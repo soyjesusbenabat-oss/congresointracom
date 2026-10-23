@@ -158,6 +158,7 @@
       "Modalidad online": "Online",
       "Inscripción básica": "Standard registration",
       "Firmantes adicionales": "Additional authors",
+      "Estudiantes de doctorado (bonificada)": "PhD students (reduced fee)",
 
       // Publicaciones
       "La estrategia de INTRACOM": "INTRACOM's approach",
@@ -387,6 +388,7 @@
       "Modalidad online": "Modalidade online",
       "Inscripción básica": "Inscrição básica",
       "Firmantes adicionales": "Subscritores adicionais",
+      "Estudiantes de doctorado (bonificada)": "Estudantes de doutoramento (tarifa reduzida)",
 
       // Publicações
       "La estrategia de INTRACOM": "A estratégia do INTRACOM",
