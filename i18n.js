@@ -36,7 +36,7 @@
       "3 y 4 de diciembre": "3 and 4 December",
       "Campus Guajara · ULL": "Guajara Campus · ULL",
       "Envío de propuestas": "Call for papers",
-      "hasta el 25 oct.": "until 25 Oct",
+      "hasta el 5 nov.": "until 5 Nov",
       "Comunicaciones, pósteres y libros": "Papers, posters and books",
       "hasta el 10 nov.": "until 10 Nov",
       "Presencial desde 160 € · online desde 100 €": "On site from €160 · online from €100",
@@ -110,7 +110,7 @@
       "en INTRACOM 2026": "at INTRACOM 2026",
       "Comunicaciones, pósteres y presentaciones de libros: envío de propuestas hasta el":
         "Papers, posters and book presentations: proposals accepted until",
-      "25 de octubre de 2026": "25 October 2026",
+      "5 de noviembre de 2026": "5 November 2026",
       "Comunicación científica": "Research paper",
       "Resultados de investigación originales vinculados al eje central o a cualquiera de las mesas temáticas.":
         "Original research findings linked to the main theme or to any of the thematic panels.",
@@ -124,7 +124,7 @@
       "Escríbenos a": "Write to us at",
       "con tu propuesta.": "with your proposal.",
       "Ir a la plataforma de envío": "Go to the submission platform",
-      "25 oct.": "25 Oct",
+      "5 nov.": "5 Nov",
       "Cierre de inscripción": "Registration closes",
       "10 nov.": "10 Nov",
       "Programa definitivo": "Final programme",
@@ -265,7 +265,7 @@
       "3 y 4 de diciembre": "3 e 4 de dezembro",
       "Campus Guajara · ULL": "Campus Guajara · ULL",
       "Envío de propuestas": "Envio de propostas",
-      "hasta el 25 oct.": "até 25 out.",
+      "hasta el 5 nov.": "até 5 nov.",
       "Comunicaciones, pósteres y libros": "Comunicações, pósteres e livros",
       "hasta el 10 nov.": "até 10 nov.",
       "Presencial desde 160 € · online desde 100 €": "Presencial desde 160 € · online desde 100 €",
@@ -339,7 +339,7 @@
       "en INTRACOM 2026": "no INTRACOM 2026",
       "Comunicaciones, pósteres y presentaciones de libros: envío de propuestas hasta el":
         "Comunicações, pósteres e apresentações de livros: envio de propostas até",
-      "25 de octubre de 2026": "25 de outubro de 2026",
+      "5 de noviembre de 2026": "5 de novembro de 2026",
       "Comunicación científica": "Comunicação científica",
       "Resultados de investigación originales vinculados al eje central o a cualquiera de las mesas temáticas.":
         "Resultados de investigação originais ligados ao eixo central ou a qualquer uma das mesas temáticas.",
@@ -353,7 +353,7 @@
       "Escríbenos a": "Escreva-nos para",
       "con tu propuesta.": "com a sua proposta.",
       "Ir a la plataforma de envío": "Ir para a plataforma de envio",
-      "25 oct.": "25 out.",
+      "5 nov.": "5 nov.",
       "Cierre de inscripción": "Fim das inscrições",
       "10 nov.": "10 nov.",
       "Programa definitivo": "Programa definitivo",
