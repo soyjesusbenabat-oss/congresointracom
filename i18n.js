@@ -38,7 +38,7 @@
       "Envío de propuestas": "Call for papers",
       "hasta el 25 oct.": "until 25 Oct",
       "Comunicaciones, pósteres y libros": "Papers, posters and books",
-      "hasta el 31 oct.": "until 31 Oct",
+      "hasta el 10 nov.": "until 10 Nov",
       "Presencial desde 160 € · online desde 100 €": "On site from €160 · online from €100",
 
       // Eje central
@@ -125,7 +125,6 @@
       "con tu propuesta.": "with your proposal.",
       "Ir a la plataforma de envío": "Go to the submission platform",
       "25 oct.": "25 Oct",
-      "31 oct.": "31 Oct",
       "Cierre de inscripción": "Registration closes",
       "10 nov.": "10 Nov",
       "Programa definitivo": "Final programme",
@@ -139,7 +138,7 @@
       "Elige tu": "Choose your",
       "modalidad": "option",
       "Inscripción abierta hasta el": "Registration open until",
-      "31 de octubre": "31 October",
+      "10 de noviembre": "10 November",
       ". El programa definitivo se publicará el 10 de noviembre.": ". The final programme will be published on 10 November.",
       "Modalidad presencial": "On site",
       "Congresista presencial": "On-site participant",
@@ -153,8 +152,8 @@
       "Incluye la evaluación científica por pares ciegos. No garantiza la publicación, que depende de una evaluación favorable; si no se acepta, el trabajo puede derivarse a otras publicaciones colectivas o revistas colaboradoras.":
         "Includes blind peer review. It does not guarantee publication, which depends on a favourable assessment; if it is not accepted, the work may be directed to other collective volumes or partner journals.",
       "Inscripción completa": "Full registration",
-      "Exclusiva para primeros/as firmantes con asistencia presencial: incluye networking y opción de publicación en editorial SPI.":
-        "For first authors attending on site only: includes networking and the option of publication with an SPI-ranked publisher.",
+      "Exclusiva para primeros/as firmantes con asistencia presencial: incluye networking y opción de publicación en Ediciones Intracom.":
+        "For first authors attending on site only: includes networking and the option of publication with Ediciones Intracom.",
       "Modalidad online": "Online",
       "Inscripción básica": "Standard registration",
       "Firmantes adicionales": "Additional authors",
@@ -268,7 +267,7 @@
       "Envío de propuestas": "Envio de propostas",
       "hasta el 25 oct.": "até 25 out.",
       "Comunicaciones, pósteres y libros": "Comunicações, pósteres e livros",
-      "hasta el 31 oct.": "até 31 out.",
+      "hasta el 10 nov.": "até 10 nov.",
       "Presencial desde 160 € · online desde 100 €": "Presencial desde 160 € · online desde 100 €",
 
       // Eixo central
@@ -355,7 +354,6 @@
       "con tu propuesta.": "com a sua proposta.",
       "Ir a la plataforma de envío": "Ir para a plataforma de envio",
       "25 oct.": "25 out.",
-      "31 oct.": "31 out.",
       "Cierre de inscripción": "Fim das inscrições",
       "10 nov.": "10 nov.",
       "Programa definitivo": "Programa definitivo",
@@ -369,7 +367,7 @@
       "Elige tu": "Escolha a sua",
       "modalidad": "modalidade",
       "Inscripción abierta hasta el": "Inscrições abertas até",
-      "31 de octubre": "31 de outubro",
+      "10 de noviembre": "10 de novembro",
       ". El programa definitivo se publicará el 10 de noviembre.": ". O programa definitivo será publicado a 10 de novembro.",
       "Modalidad presencial": "Modalidade presencial",
       "Congresista presencial": "Congressista presencial",
@@ -383,8 +381,8 @@
       "Incluye la evaluación científica por pares ciegos. No garantiza la publicación, que depende de una evaluación favorable; si no se acepta, el trabajo puede derivarse a otras publicaciones colectivas o revistas colaboradoras.":
         "Inclui a avaliação científica por pares cega. Não garante a publicação, que depende de uma avaliação favorável; se não for aceite, o trabalho pode ser encaminhado para outros volumes coletivos ou revistas parceiras.",
       "Inscripción completa": "Inscrição completa",
-      "Exclusiva para primeros/as firmantes con asistencia presencial: incluye networking y opción de publicación en editorial SPI.":
-        "Exclusiva para primeiros subscritores com presença: inclui networking e opção de publicação em editora SPI.",
+      "Exclusiva para primeros/as firmantes con asistencia presencial: incluye networking y opción de publicación en Ediciones Intracom.":
+        "Exclusiva para primeiros subscritores com presença: inclui networking e opção de publicação em Ediciones Intracom.",
       "Modalidad online": "Modalidade online",
       "Inscripción básica": "Inscrição básica",
       "Firmantes adicionales": "Subscritores adicionais",
