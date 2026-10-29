@@ -173,10 +173,9 @@
       "Participar no obliga a publicar": "Taking part does not oblige you to publish",
       "Quien quiera optar a publicación debe enviar el texto completo en plazo, adaptado a las normas editoriales, para someterlo a revisión por pares ciegos.":
         "Those who wish to be considered must send the full text within the deadline, following the editorial guidelines, for blind peer review.",
-      "ii. Editoriales colaboradoras": "ii. Partner publishers",
-      "Publicación en editoriales académicas": "Publication with academic publishers",
-      "Los trabajos que superen la evaluación podrán publicarse en editoriales colaboradoras de INTRACOM, como:":
-        "Papers that pass review may be published by INTRACOM's partner publishers, such as:",
+      "ii. Editorial": "ii. Publisher",
+      "Publicación en Ediciones Intracom": "Publication with Ediciones Intracom",
+      "Los trabajos que superen la evaluación se publicarán en:": "Papers that pass review will be published by:",
       "iii. Alternativas": "iii. Alternatives",
       "Volúmenes colectivos y revistas": "Collective volumes and journals",
       "Si una propuesta no se acepta, podrá incorporarse, previa valoración científica, a volúmenes colectivos de INTRACOM o a revistas colaboradoras del Portal Iberoamericano de la Transferencia del Conocimiento.":
@@ -402,10 +401,9 @@
       "Participar no obliga a publicar": "Participar não obriga a publicar",
       "Quien quiera optar a publicación debe enviar el texto completo en plazo, adaptado a las normas editoriales, para someterlo a revisión por pares ciegos.":
         "Quem quiser candidatar-se à publicação deve enviar o texto completo no prazo, seguindo as normas editoriais, para revisão por pares cega.",
-      "ii. Editoriales colaboradoras": "ii. Editoras parceiras",
-      "Publicación en editoriales académicas": "Publicação em editoras académicas",
-      "Los trabajos que superen la evaluación podrán publicarse en editoriales colaboradoras de INTRACOM, como:":
-        "Os trabalhos que superem a avaliação poderão ser publicados em editoras parceiras do INTRACOM, como:",
+      "ii. Editorial": "ii. Editora",
+      "Publicación en Ediciones Intracom": "Publicação em Ediciones Intracom",
+      "Los trabajos que superen la evaluación se publicarán en:": "Os trabalhos que superem a avaliação serão publicados em:",
       "iii. Alternativas": "iii. Alternativas",
       "Volúmenes colectivos y revistas": "Volumes coletivos e revistas",
       "Si una propuesta no se acepta, podrá incorporarse, previa valoración científica, a volúmenes colectivos de INTRACOM o a revistas colaboradoras del Portal Iberoamericano de la Transferencia del Conocimiento.":
